@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">⭐Entry Level:</h2>
+<h2 align="left">⭐Entry Level:</h2>
 
 ###
 
