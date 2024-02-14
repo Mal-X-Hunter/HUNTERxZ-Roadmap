@@ -1,5 +1,3 @@
-###
-
 <h1 align="center">Hello Hunterz!!👋</h1>
 
 ###
@@ -10,11 +8,11 @@
 
 ###
 
-<h2 align="left">⭐Entry Level:</h2>
+<h2 align="center">⭐Entry Level:</h2>
 
 ###
 
-<h3 align="left">🔗Linux: <br>🔗Network:<br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .</h3>
+<h3 align="left">🔗Linux: <br>🔗Network:<br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .<br><br>-----------------------------------------------------------------------------------------------------------------------------------------------</h3>
 
 ###
 
