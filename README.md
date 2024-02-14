@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://assets-v2.lottiefiles.com/a/6ae30608-1152-11ee-a832-8bf47b1739dd/KdwHDJSqNs.gif"  />
-</div>
-
 ###
 
 <h1 align="center">Hello Hunterz!!👋</h1>
