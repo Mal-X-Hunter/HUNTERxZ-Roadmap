@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🔗Linux: <br><br>🔗Network:<br><br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .</h3>
+<h3 align="left">🔗Linux: (vid 1~13) https://youtube.com/playlist?list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&si=1lbc7U5KOEUjWv5r<br><br>🔗Windows: (vid 14~21) https://youtube.com/playlist?list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&si=1lbc7U5KOEUjWv5r<br><br>🔗Network: (vid 22 ~ 29) https://youtube.com/playlist?list=PLtr9ezc61PUbA2l3MiE4YbrgITJN84N-C&si=aAgWK0i1NpoikEtd<br><br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .</h3>
 
 ###
 
