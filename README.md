@@ -8,14 +8,18 @@
 
 ###
 
-<h2 align="center">⭐Entry Level:</h2>
+<h2 align="left">⭐Entry Level:</h2>
 
 ###
 
-<h3 align="left">🔗Linux: <br><br>🔗Network:<br><br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .<br><br>------------------------------------------------------------------------------------------------------------------------------------</h3>
+<h3 align="left">🔗Linux: <br><br>🔗Network:<br><br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .</h3>
 
 ###
 
-<h2 align="center">⭕Let’s go to how you can choose matching job title in security❗</h2>
+<p align="left"></p>
+
+###
+
+<h2 align="center">⭕ Let’s go to how you can choose matching job title in security❗</h2>
 
 ###
