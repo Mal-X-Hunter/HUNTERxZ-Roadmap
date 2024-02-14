@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🔗Linux: <br>🔗Network:<br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .<br><br>-----------------------------------------------------------------------------------------------------------------------------------------------</h3>
+<h3 align="left">🔗Linux: <br><br>🔗Network:<br><br>🔗SEC+:https://youtube.com/playlis?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=Gj7Ia2gVKGR2UBpo .<br><br>------------------------------------------------------------------------------------------------------------------------------------</h3>
 
 ###
 
